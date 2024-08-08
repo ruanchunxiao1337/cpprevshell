@@ -7,7 +7,7 @@ def create_socket():
                 global host
                 global port
                 global s
-                host = ''
+                host = '10.10.14.8'
                 port = 9999
                 # don't use common ports like 80, 3389
 
